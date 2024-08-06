@@ -9,14 +9,13 @@ export default function Contact (props) {
             </h1> 
             <div>
               <span className="footer-title">Socials</span> 
-              <a href="https://www.linkedin.com/in/marcreniel" target="_blank" rel="noopener noreferrer" className="link link-hover">LinkedIn</a> 
-              <a href="https://github.com/marcreniel" target="_blank" rel="noopener noreferrer" className="link link-hover">GitHub</a> 
-              <a href="https://twitter.com/marcrenielb" target="_blank" rel="noopener noreferrer" className="link link-hover">Twitter</a> 
+              <a href="https://www.linkedin.com/in/holdenwillett" target="_blank" rel="noopener noreferrer" className="link link-hover">LinkedIn</a> 
+              <a href="https://github.com/holdenwillett" target="_blank" rel="noopener noreferrer" className="link link-hover">GitHub</a> 
             </div> 
            <div>
             <span className="footer-title">Emails</span> 
-            <a href="mailto:marc@notmarc.me"className="link link-hover">marc@notmarc.me (Work) </a>
-            <a href="mailto:bernardino@stanford.edu"className="link link-hover">bernardino@stanford.edu (Academic)</a>
+            <a href="mailto:htwillett8@gmail.com"className="link link-hover">htwillett8@gmail.com (Work) </a>
+            <a href="mailto:htwillett@uiowa.edu"className="link link-hover">htwillett@uiowa.edu (Academic)</a>
 
           </div>
           <div>
