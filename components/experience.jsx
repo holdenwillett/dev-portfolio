@@ -49,6 +49,21 @@ export default function Experience(props) {
         "Collaborated in pair programming/mobbing sessions with multiple teams to deliver software more effectively and efficiently.",
       ],
     },
+    {
+      company: "Republic Companies",
+      logo: "/republiccompanies.jpg",
+      logoClass: "w-full h-full",
+      role: "Information Technology Intern",
+      period: "Jun 2023 – Aug 2023",
+      location: "Davenport, IA",
+      current: false,
+      tags: ["JavaScript", "Infor", "IT Support", "Computer Hardware"],
+      bullets: [
+        "Developed front-end features for business software using JavaScript and Infor.",
+        "Assessed and troubleshot computer problems reported by 10+ employees.",
+        "Maintained and serviced computer hardware, including drives, servers, and network systems.",
+      ],
+    },
   ];
 
   return (

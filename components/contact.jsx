@@ -18,10 +18,6 @@ export default function Contact (props) {
             <a href="mailto:htwillett@uiowa.edu"className="link link-hover">htwillett@uiowa.edu (Academic)</a>
 
           </div>
-          <div>
-            <span className="footer-title">Resume</span> 
-            <a href="/resume.pdf" download="Holden_Willett_Resume.pdf" className="link link-hover">Click here</a>
-          </div>
       </div>
       </div>    
     )
